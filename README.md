@@ -1,7 +1,5 @@
 # super-market-Analysis
 
-
-
 Overview of Supermarket Dataset
 📊 Dataset: Supermarket Sales Data
 📅 Date: [Insert Date]
