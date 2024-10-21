@@ -23,6 +23,8 @@ Data Types:
 📊 Visualizations:
 
 Consider including graphs or charts to highlight trends or patterns.
+
+
 💡 Conclusion: This dataset provides valuable insights into supermarket sales, helping to identify trends and optimize inventory management.
 
 
