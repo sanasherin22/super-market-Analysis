@@ -28,5 +28,3 @@ Consider including graphs or charts to highlight trends or patterns.
 
 
 
-
-ChatGPT can make mistakes. Check import
