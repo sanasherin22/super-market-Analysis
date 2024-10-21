@@ -26,9 +26,10 @@ Overview of Supermarket Dataset
   *.Total Quantity Sold: [Insert total]
   *.Most Popular Product: [Insert product name]
 2.Missing Values:
+Total Missing Values: [Insert number of missing values]
 
-3.Total Missing Values: [Insert number of missing values]
-Data Types:
+
+3.Data Types:
 [List key data types, e.g., numeric, categorical]
 
 📊 Visualizations:
